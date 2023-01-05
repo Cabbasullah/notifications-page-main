@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+
+body{
+    align-items: center;
+}
+.not {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.three{
+    background-color: rgb(111, 111, 222);
+    border-radius: 20%;
+    
+    
+    
+}
+
+
+.txt{
+    padding-right: 20px;
+    background-image: url(avatar-mark-webber.webp);
+    background-repeat: no-repeat;
+    background-size: 30px 20px;
+    background-color: rgb(64, 86, 134);
+    
+    width: 60vw;
+    height: 10vh;
+    border-radius: 4%;
+    background-position: left;
+    text-align: center;
+    display: inline-block;
+    font-size: 16;
+    font-family: [Plus Jakarta Sans];
+
+    
+    
+}
+.text h5{
+    margin-left: 200px;
+}
+
+.angela{
+    padding-right: 20px;
+    margin-top: 30px;
+    background-image: url(avatar-angela-gray.webp);
+    background-repeat: no-repeat;
+    background-size: 30px 20px;
+    background-color: rgb(85, 92, 135);
+
+    width: 60vw;
+    height: 10vh;
+    background-position: left;
+    text-align: center;
+    border-radius: 7%;
+    display: inline-block;
+
+}
+.angela .follow{
+    color:beige;
+
+}
+
+.jacob{
+    padding-right: 20px;
+    margin-top: 30px;
+    background-image: url(avatar-jacob-thompson.webp);
+    background-repeat: no-repeat;
+    background-size: 30px 20px;
+    background-color: rgb(41, 92, 117);
+    border-radius: 7%;
+
+    width: 60vw;
+    height: 10vh;
+    background-position: left;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.Hasan {
+    padding-right: 20px;
+    margin-top: 30px;
+    background-image: url(avatar-rizky-hasanuddin.webp);
+    background-repeat: no-repeat;
+    background-size: 30px 20px;
+    background-color: rgb(54, 82, 127);
+    border-radius: 7%;
+
+    width: 60vw;
+    height: 10vh;
+    background-position: left;
+    text-align: center;
+    display: inline-block;
+    font-family: [Plus Jakarta Sans];
+
+}
+.smith {
+    padding-right: 20px;
+    margin-top: 30px;
+    background-image: url(avatar-kimberly-smith.webp);
+    background-repeat: no-repeat;
+    background-size: 30px 20px;
+    background-color: rgb(20, 82, 129);
+    border-radius: 7%;
+
+    width: 60vw;
+    height: 10vh;
+    background-position: left;
+    text-align: center;
+    display: inline-block;
+    font-family: [Plus Jakarta Sans];
+
+}
+.Nathan {
+    padding-right: 20px;
+    margin-top: 30px;
+    background-image: url(avatar-nathan-peterson.webp);
+    background-repeat: no-repeat;
+    background-size: 30px 20px;
+    background-color: rgb(32, 123, 156);
+    border-radius: 7%;
+
+    width: 60vw;
+    height: 10vh;
+    background-position: left;
+    text-align: center;
+    display: inline-block;
+    font-family: [Plus Jakarta Sans];
+
+}
+.Anna {
+    padding-right: 20px;
+    margin-top: 30px;
+    background-image: url(avatar-anna-kim.webp);
+    background-repeat: no-repeat;
+    background-size: 30px 20px;
+    background-color: rgb(105, 138, 216);
+
+    width: 60vw;
+    height: 10vh;
+    background-position: left;
+    text-align: center;
+    display: inline-block;
+    font-family: [Plus Jakarta Sans];
+    border-radius: 7%;
+
+}
+.text h6{
+    font-size: 16px;
+    font-family: [Plus Jakarta Sans];
+    border-radius: 7%;
+}
+
+@media (max-width: 375px) {
+.Anna {
+        padding-right: 20px;
+        margin-top: 30px;
+        background-image: url(avatar-anna-kim.webp);
+        background-repeat: no-repeat;
+        background-size: 50px 40px;
+        background-color: rgb(51, 113, 212);
+
+        width: 60vw;
+        height: 10vh;
+        background-position: left;
+        text-align: center;
+        display: inline-block;
+
+    }
+.Nathan {
+    padding-right: 20px;
+    margin-top: 30px;
+    background-image: url(avatar-nathan-peterson.webp);
+    background-repeat: no-repeat;
+    background-size: 50px 40px;
+    background-color: whitesmoke;
+
+    width: 60vw;
+    height: 10vh;
+    background-position: left;
+    text-align: center;
+    display: inline-block;
+
+}
+
+}
+
+  
